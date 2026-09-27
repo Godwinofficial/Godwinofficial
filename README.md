@@ -1,89 +1,38 @@
 # Hi, I’m Godwin Banda 
 
-### Software Engineer | Founder & CTO | AI & Digital Product Builder
+### Software Engineer | AI Engineer | Full Stack Developer | Founder & CTO
 
-I’m a Zambian software engineer and technology entrepreneur focused on building practical digital products that solve real business problems.
+I’m a Zambian software engineer and technology entrepreneur focused on building **practical software that solves real problems**.
 
-I work across **web, mobile, backend systems, databases, and AI powered applications**, with a strong interest in turning ideas into scalable products.
+I build web and mobile applications, backend systems, APIs, databases, and AI powered solutions. I also lead product development as the **Founder & CTO of Lightstack Group**.
 
-As the **Founder and CTO of Lightstack Group**, I lead the development of digital products and software solutions for businesses and organizations.
+### Tech Stack
 
----
+`JavaScript` `Python` `SQL` `React` `React Native` `Django` `Django REST Framework` `Node.js` `PostgreSQL` `MySQL` `Supabase` `Tailwind CSS` `Git` `REST APIs`
 
-## What I Do
+### Areas of Interest
 
-* Build scalable web and mobile applications
-* Develop business management and digital platforms
-* Design and develop REST APIs and backend systems
-* Work with relational databases and data driven applications
-* Integrate AI into practical business solutions
-* Develop MVPs and production ready digital products
-* Design intuitive and modern user experiences
-* Turn business ideas into functional software products
+**Software Engineering** • **Artificial Intelligence** • **FinTech** • **Digital Transformation** • **Automation** • **Product Development**
 
----
+### My Philosophy
 
-## Technologies & Tools
+> **“I believe good software should solve a real problem before it tries to impress people.”**
 
-**Frontend**
+I believe great engineering starts with understanding the problem, then using technology to create solutions that are **useful, reliable, scalable, and built for real people**.
 
-`React` `React Native` `JavaScript` `HTML` `CSS` `Bootstrap` `Tailwind CSS`
+### Background
 
-**Backend**
+Bachelor of Arts in **Public Administration and Library & Information Science** with practical experience in software development and digital product building.
 
-`Python` `Django` `Django REST Framework` `Node.js`
+### Open to Opportunities
 
-**Database**
+I’m interested in **Software Engineering, Full Stack Development, Backend Development, AI Engineering, FinTech, and Digital Product opportunities**.
 
-`PostgreSQL` `MySQL` `Supabase`
+### Connect
 
-**Tools & Platforms**
-
-`Git` `GitHub` `Vercel` `Expo` `Figma` `REST APIs`
-
-**AI & Emerging Technology**
-
-`AI Integration` `LLM APIs` `AI Powered Applications` `Automation`
+ **0973848066**
+ **LinkedIn:** https://www.linkedin.com/in/godwin-banda/
 
 ---
 
-## Engineering Philosophy
-
-> **I believe good software should solve a real problem before it tries to impress people.**
-
-My approach is centred around understanding the problem, designing a practical solution, building it properly, and continuously improving it based on real user needs.
-
----
-
-## Currently Exploring
-
-🔹 Artificial Intelligence and LLM applications
-🔹 AI powered business systems
-🔹 Scalable software architecture
-🔹 Digital transformation
-🔹 FinTech and financial technology
-🔹 Automation and intelligent workflows
-🔹 Building technology products from Africa for global markets
-
----
-
-## Beyond Code
-
-My background in **Public Administration and Library & Information Science** gives me an additional perspective on how technology interacts with organizations, people, processes, and institutions.
-
-I am particularly interested in the intersection of **technology, business, administration, and innovation**.
-
----
-
-## Let’s Connect
-
-I’m interested in collaborating on meaningful software projects, technology products, AI applications, and innovative business ideas.
-
-📞 **Phone:** 0973848066
-🔗 **LinkedIn:** https://www.linkedin.com/in/godwin-banda/
-
----
-
-### Building software. Creating products. Solving real problems.
-
-**Engineering Beyond Code.**
+### Engineering Beyond Code.
