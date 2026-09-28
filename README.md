@@ -1,6 +1,6 @@
 # Hi, I’m Godwin Banda 
 
-### Software Engineer | AI Engineer | CEO Founder 
+### Software Engineer | AI Engineer | Founder CEO
 
 I’m a Zambian software engineer and technology entrepreneur focused on building **practical software that solves real problems**.
 
