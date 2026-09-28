@@ -4,7 +4,7 @@
 
 I’m a Zambian software engineer and technology entrepreneur focused on building **practical software that solves real problems**.
 
-I build web and mobile applications, backend systems, APIs, databases, and AI powered solutions. I also lead product development as the **Founder & CTO of Lightstack Group**.
+I build web and mobile applications, backend systems, APIs, databases, and AI powered solutions. I also lead product development as the **Founder CEO of Lightstack Group**.
 
 ### Tech Stack
 
